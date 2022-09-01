@@ -1,0 +1,22 @@
+.lasagna {
+  height: 200px;
+  width: 200px;
+}
+h1,.description,.ingredients-description,.steps-description{
+  color: orange;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+.steps li{
+  color: rgb(171, 77, 43);
+}
+.other-recipes a{
+  text-decoration: none;
+  color: black;
+}
+.ingredients li {
+  color: rgb(171, 77, 43);
+}
+li{
+  font-size: 18px;
+}
